@@ -22,10 +22,7 @@ Right now RankSync supports the following permission systems:
 they will be detected automatically when your server runs one of these two plugins.
 
 ### Bungeecord
-Right now RankSync supports the following permission systems:
-- <none> Do not use this version on the bungee side of your server.
-
-it will be detected automatically when your server runs this plugin.
+Do not use this RankSync version on the bungee side of your server.
 
 ## Prerequisites
 Those are the things you'll need if you want to compile this project for yourself
