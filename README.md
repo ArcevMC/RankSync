@@ -19,8 +19,6 @@ more ways to store data might get added in the future.
 Right now RankSync supports the following permission systems:
 - Essentials (Custom Permissions plugin)
 
-they will be detected automatically when your server runs one of these two plugins.
-
 ### Bungeecord
 Do not use this RankSync version on the bungee side of your server.
 
