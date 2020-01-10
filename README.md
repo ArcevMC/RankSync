@@ -17,14 +17,13 @@ more ways to store data might get added in the future.
 
 ### Spigot
 Right now RankSync supports the following permission systems:
-- Vault
-- LuckPerms
+- Essentials (Custom Permissions plugin)
 
 they will be detected automatically when your server runs one of these two plugins.
 
 ### Bungeecord
 Right now RankSync supports the following permission systems:
-- LuckPerms
+- <none> Do not use this version on the bungee side of your server.
 
 it will be detected automatically when your server runs this plugin.
 
